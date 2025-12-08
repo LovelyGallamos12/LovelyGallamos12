@@ -10,5 +10,6 @@ Studying Bachelor of Science in Information Technology - New Era University
 
 ## Skill
 ° HTML, CSS , JAVASCRIPT
+
 ° Knowledgable in Excel , Word , Spreadsheet 
 
