@@ -8,4 +8,6 @@ Studying Bachelor of Science in Information Technology - New Era University
 ## My Certificates                                                                                                                     
 -[ SQL and Relational Databases 101 ](https://courses.cognitiveclass.ai/certificates/aac00ccf705a4e2099b9b52ab54274c0#)
 
-##
+## Skillset
+Knowledgable in Excel , Word , Spreadsheet 
+
