@@ -9,7 +9,6 @@ Studying Bachelor of Science in Information Technology - New Era University
 -[ SQL and Relational Databases 101 ](https://courses.cognitiveclass.ai/certificates/aac00ccf705a4e2099b9b52ab54274c0#)
 
 ## Skill
-HTML, CSS , JAVASCRIPT
-
-Knowledgable in Excel , Word , Spreadsheet 
+° HTML, CSS , JAVASCRIPT
+° Knowledgable in Excel , Word , Spreadsheet 
 
