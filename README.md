@@ -7,6 +7,8 @@ Studying Bachelor of Science in Information Technology - New Era University
 
 ## My Achievements                                                                  
 Certifications
+
+
 [Become An OCI Foundations Associate (2025)](https://courses.cognitiveclass.ai/certificates/aac00ccf705a4e2099b9b52ab54274c0#)
 
 [ SQL and Relational Databases 101 ](https://courses.cognitiveclass.ai/certificates/aac00ccf705a4e2099b9b52ab54274c0#)
