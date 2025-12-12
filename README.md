@@ -13,6 +13,7 @@ Certifications
 
 [ SQL and Relational Databases 101 ](https://courses.cognitiveclass.ai/certificates/aac00ccf705a4e2099b9b52ab54274c0#)
 
+[Oracle Data Platform 2025 Certified Foundations Associate] (https://catalog-education.oracle.com/pls/certview/sharebadge?id=1F04473BD49143BC69F6AA460736C26094FA01F5A21007F077BF8A5526A56CD7)
 ## Skill
 ° HTML, CSS , JAVASCRIPT
 
