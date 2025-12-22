@@ -13,7 +13,10 @@ Studying Bachelor of Science in Information Technology - New Era University
 
 [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/aac00ccf705a4e2099b9b52ab54274c0#)
 
-[Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1F04473BD49143BC69F6AA460736C26094FA01F5A21007F077BF8A5526A56CD7)
+[Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1F04473BD49143BC69F6AA460736C26094FA01F5A21007F077BF8A5526A56CD7) 
+
+[Become An OCI AI Foundations Associate 2025]([https://catalog-education.oracle.com/pls/certview/sharebadge?id=1F04473BD49143BC69F6AA460736C26094FA01F5A21007F077BF8A5526A56CD7](https://catalog-education.oracle.com/pls/certview/sharebadge?id=59C3882626295FF7532A7BFCD711E8F8322A15FC7E03A9F85880E308BEE830EE))
+
 
 
 
